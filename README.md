@@ -2,6 +2,7 @@
 
 ## About
 Welcome to my portfolio! My name is Ahria, and I am currently a Clinical Research Associate in the Clinical Health, Emotion, and Neuroscience (CHEN) Lab at the University of Nebraska Medical Center. I am a graduate student in the Data Science program at Bellevue University and will complete my degree in August. Between my schooling and research experience, I have a total of about 5 years of experience in data analysis techniques.
+If you would like, you can jump straight to my [Professional Milestones](), [Academics](https://github.com/ahriadominguez/ahriadominguez.github.io/blob/main/README.md#academics), [Work History](), [Projects](), or [Contact Information]().
 
 ### Professional Milestones:
 - Selected to submit a long abstract to the Society for Affective Science (SAS)
