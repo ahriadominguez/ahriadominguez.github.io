@@ -15,10 +15,10 @@ Welcome to my portfolio! My name is Ahria, and I am currently a Clinical Researc
 - Bachelor of Arts in Psychology from the University of Colorado Colorado Springs (2021)
   - Minor in Cognitive Studies
   - Summa Cum Laude
-  - Awarded the Outstanding Undegraduate Psychology Student of Spring 2021 (determined by students' GPA, in-class performance, and research accomplishments)
+  - Awarded the Outstanding Undergraduate Psychology Student of Spring 2021 (determined by students' GPA, in-class performance, and research accomplishments)
 - Associate of Science and Associate of Arts from Mid-Plains Community College (2018)
 
-## Work/Projects
+## Work/Projects:
 
-## Contact
-Please feel free to contact me by email at ahriadominguez@outlook.com.
+## Contact:
+Whether you have questions, want to chat about my portfolio, or would like to connect, please feel free to contact me by email at ahriadominguez@outlook.com, connect with me on [LinkedIn](https://www.linkedin.com/in/ahria-dominguez-922a16211/), or connect with me on [ResearchGate](https://www.researchgate.net/profile/Ahria-Dominguez).
