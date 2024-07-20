@@ -3,7 +3,9 @@
 # Ahria Dominguez's Portfolio
 
 ## About
-Welcome to my portfolio! My name is Ahria, and I am currently a Clinical Research Associate in the Clinical Health, Emotion, and Neuroscience (CHEN) Lab at the University of Nebraska Medical Center (UNMC). I am a graduate student in the Data Science program at Bellevue University and will complete my degree in August. Between my schooling and research experience, I have a total of about 5 years of experience in data analysis techniques. In my free time, I love to crochet, play with my dogs, and travel with my husband. 
+Welcome to my portfolio! My name is Ahria, and I am currently a Clinical Research Associate in the Clinical Health, Emotion, and Neuroscience (CHEN) Lab at the University of Nebraska Medical Center (UNMC). I am a graduate student in the Data Science program at Bellevue University and will complete my degree in August. Between my schooling and research experience, I have a total of about 5 years of experience in data analysis techniques. I aspire to become a Clinical Psychologist to help people who have experienced various forms of traumatic experiences, including, but not limited to, sexual violence, physical abuse, and neglect. 
+In my free time, I love to crochet, play with my dogs, and travel with my husband. 
+
 Below, you can find my professional and academic accomplishments, work history, data science projects, and contact information.
 
 ### Professional Milestones:
