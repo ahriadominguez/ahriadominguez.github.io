@@ -1,3 +1,5 @@
+![Headshot showing Ahria Dominguez smiling in front of a tree](/assets/UpdatedHeadshot.jpeg)
+
 # Ahria Dominguez's Portfolio
 
 ## About
