@@ -72,4 +72,4 @@ Listed below are some projects completed during my time in the data science grad
     - Skills: _API keys, JSON parsing, saving files using commands, error handling_
 
 ### Contact:
-Whether you have questions, want to chat about my portfolio, or would like to connect, please feel free to contact me by email at ahriadominguez@outlook.com, connect with me on [LinkedIn](https://www.linkedin.com/in/ahria-dominguez-922a16211/), or connect with me on [ResearchGate](https://www.researchgate.net/profile/Ahria-Dominguez).
+Whether you have questions, want to chat about my portfolio, or would like to connect, please feel free to contact me by email at [ahriadominguez@outlook.com](mailto:ahriadominguez@outlook.com), connect with me on [LinkedIn](https://www.linkedin.com/in/ahria-dominguez-922a16211/), or connect with me on [ResearchGate](https://www.researchgate.net/profile/Ahria-Dominguez).
