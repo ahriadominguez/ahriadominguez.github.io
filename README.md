@@ -42,10 +42,10 @@ Listed below are some projects completed during my time in the data science grad
   - A project that predicts life satisfaction (through the Satisfaction with Life Scale) using several different features from respondents, such as depression, anxiety, and stress scores, traumatic experiences, religious beliefs and behaviors, age, gender, marital status, employment status, income, etc. Several models were performed on the data, including multiple classification and multiple regression models. The most successful model was found to be the Ordinary Least Squares Regression.
     - __Tools__: _pandas, numpy, matplotlib.pyplot, scikit-learn, statsmodels_
     - __Skills__: _data transformation, classification models, regression models, recursive feature selection with cross-validation, grid searches, data visualization, model evaluation_
-- __[Attitudes on Violence Against Women]()__
-  - Information on the project will be here.
-    - __Tools__: tools
-    - __Skills__: skills
+- __[Attitudes on Violence Against Women](https://github.com/ahriadominguez/ahriadominguez.github.io/tree/main/Beliefs%20about%20Violence%20Against%20Women)__
+  - A project that predicts the percentage of agreeance on sentiments of violence against women and predicts the gender of the respondent. The dataset uses a questionnaire that assesses different scenarios of domestic violence and whether or not the respondents agree with the condoning of violence.
+    - __Tools__: _pandas, numpy, matplotlib.pyplot, scikit-learn, statsmodels_
+    - __Skills__: _classification models, regression models, principal component analyses, data visualization_
 - __[Find Yesterday's Top 100 Books](https://github.com/ahriadominguez/ahriadominguez.github.io/tree/main/Top%20100%20Books%20of%20the%20Day)__
   - A project that scrapes information from a URL and parses through the HTML data using BeautifulSoup to present the top 100 books based on the site's activity from the day before in a way that is visually pleasing and easy to read.
     - __Tools__: _requests, re, bs4, ssl, urrlib_
