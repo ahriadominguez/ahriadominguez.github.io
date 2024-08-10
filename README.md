@@ -8,6 +8,8 @@ In my free time, I love to crochet, play with my dogs, and travel with my husban
 
 Below, you can find my professional and academic accomplishments, work history, data science projects, and contact information.
 
+[LinkedIn](https://www.linkedin.com/in/ahria-dominguez-922a16211/) [ResearchGate](https://www.researchgate.net/profile/Ahria-Dominguez) [GitHub Respository](https://github.com/ahriadominguez/ahriadominguez.github.io) [Curriculum Vitae]()
+
 ### Professional Milestones:
 - Selected to submit a long abstract to the Society for Affective Science (SAS)
 - Selected to do a Spotlight Presentation at SAS 2024 along with presenting a scientific poster
@@ -34,10 +36,14 @@ Below, you can find my professional and academic accomplishments, work history, 
 ### Data Science Projects:
 Listed below are some projects completed during my time in the data science graduate program at Bellevue University that I wanted to highlight.
 
+-__[Classifying Facial Expressions](https://github.com/ahriadominguez/ahriadominguez.github.io/tree/main/Classifying%20Facial%20Expressions)__
+  - A project that uses several convolutional neural networks (CNNs) to classify photos of facial expressions into one of seven different categories (anger, disgust, fear, happiness, neutrality, sadness, or surprise). One model was found to be the most effective, with an accuracy score of __% and a loss of __.
+    - __Tools__: _tensorflow, keras, numpy, scikit-learn, matplotlib.pyplot, seaborn_
+    - __Skills__: _neural networks, CNN, classification of images, model evaluation, plotting model metrics_
 - __[Predicting Divorce](https://github.com/ahriadominguez/ahriadominguez.github.io/tree/main/Predicting%20Divorce)__
   - A project that uses different classification models (logistic regression, decision tree classifier, random forest classifier, and support vector classifier) to predict whether or not a couple would divorce based on a marital questionnaire. Several models were found to be effective in predicting divorce.
     - __Tools__: _pandas, matplotlib.pyplot, seaborn, scikit-learn_
-    - __Skills__: _Classifier models, recursive feature selection with cross-validation, grid searches, data visualization, model evaluation_
+    - __Skills__: _classification models, recursive feature selection with cross-validation, grid searches, data visualization, model evaluation_
 - __[Predicting Life Satisfaction](https://github.com/ahriadominguez/ahriadominguez.github.io/tree/main/Predicting%20Life%20Satisfaction)__
   - A project that predicts life satisfaction (through the Satisfaction with Life Scale) using several different features from respondents, such as depression, anxiety, and stress scores, traumatic experiences, religious beliefs and behaviors, age, gender, marital status, employment status, income, etc. Several models were performed on the data, including multiple classification and multiple regression models. The most successful model was found to be the Ordinary Least Squares Regression.
     - __Tools__: _pandas, numpy, matplotlib.pyplot, scikit-learn, statsmodels_
