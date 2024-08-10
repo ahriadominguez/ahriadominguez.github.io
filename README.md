@@ -36,7 +36,7 @@ Below, you can find my professional and academic accomplishments, work history, 
 ### Data Science Projects:
 Listed below are some projects completed during my time in the data science graduate program at Bellevue University that I wanted to highlight.
 
--__[Classifying Facial Expressions](https://github.com/ahriadominguez/ahriadominguez.github.io/tree/main/Classifying%20Facial%20Expressions)__
+- __[Classifying Facial Expressions](https://github.com/ahriadominguez/ahriadominguez.github.io/tree/main/Classifying%20Facial%20Expressions)__
   - A project that uses several convolutional neural networks (CNNs) to classify photos of facial expressions into one of seven different categories (anger, disgust, fear, happiness, neutrality, sadness, or surprise). One model was found to be the most effective, with an accuracy score of __% and a loss of __.
     - __Tools__: _tensorflow, keras, numpy, scikit-learn, matplotlib.pyplot, seaborn_
     - __Skills__: _neural networks, CNN, classification of images, model evaluation, plotting model metrics_
