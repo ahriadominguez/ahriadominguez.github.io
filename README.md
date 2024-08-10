@@ -8,13 +8,13 @@ In my free time, I love to crochet, play with my dogs, and travel with my husban
 
 Below, you can find my professional and academic accomplishments, work history, data science projects, and contact information.
 
-[LinkedIn](https://www.linkedin.com/in/ahria-dominguez-922a16211/) [ResearchGate](https://www.researchgate.net/profile/Ahria-Dominguez) [GitHub Respository](https://github.com/ahriadominguez/ahriadominguez.github.io) [Curriculum Vitae]()
+[LinkedIn](https://www.linkedin.com/in/ahria-dominguez-922a16211/) [ResearchGate](https://www.researchgate.net/profile/Ahria-Dominguez) [GitHub Respository](https://github.com/ahriadominguez/ahriadominguez.github.io) [Curriculum Vitae](https://github.com/ahriadominguez/ahriadominguez.github.io/blob/main/Dominguez_CV.pdf)
 
 ### Professional Milestones:
-- Selected to submit a long abstract to the Society for Affective Science (SAS)
-- Selected to do a Spotlight Presentation at SAS 2024 along with presenting a scientific poster
+- Invited to submit a long abstract to the Society for Affective Science (SAS)
+- Invited to do a Spotlight Presentation at SAS 2024 along with presenting a scientific poster
   - Titled _Determining the Optimal Bin Size for Computing Physiological Linkage_
-- Selected to present a scientific poster at the American Academy for Child and Adolescent Psychiatry (AACAP) 2023
+- Presented a scientific poster at the American Academy for Child and Adolescent Psychiatry (AACAP) 2023
   - Titled _Atypical Brain Morphometry in Youth with Elevated PTSD Symptoms_
 
 ### Academics:
