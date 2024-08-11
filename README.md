@@ -52,7 +52,7 @@ Listed below are some projects completed during my time in the data science grad
   - A project that predicts the percentage of agreeance on sentiments of violence against women and predicts the gender of the respondent. The dataset uses a questionnaire that assesses different scenarios of domestic violence and whether or not the respondents agree with the condoning of violence.
     - __Tools__: _pandas, numpy, matplotlib.pyplot, scikit-learn, statsmodels_
     - __Skills__: _classification models, regression models, principal component analyses, data visualization_
-- __[Find Yesterday's Top 100 Books](https://github.com/ahriadominguez/ahriadominguez.github.io/tree/main/Top%20100%20Books%20of%20the%20Day)__
+- __[Find Yesterday's Top 100 Books](https://github.com/ahriadominguez/ahriadominguez.github.io/tree/main/Yesterday's%20Top%20100%20Books)__
   - A project that scrapes information from a URL and parses through the HTML data using BeautifulSoup to present the top 100 books based on the site's activity from the day before in a way that is visually pleasing and easy to read.
     - __Tools__: _requests, re, bs4, ssl, urrlib_
     - __Skills__: _get requests, HTML parsing, BeautifulSoup, loops, pretty printing_
@@ -60,7 +60,7 @@ Listed below are some projects completed during my time in the data science grad
   - A project that takes user input to give movie recommendations based on the movie they indicated they enjoy by using correlation analyses from other movie ratings. It prints out the top 10 movies with the highest correlations with the user input.
     - __Tools__: _pandas, numpy, warnings, time_
     - __Skills__: _correlation analyses, parsing information, error handling, user input scripts_ 
-- __[Improving Major League Baseball Attendance](https://github.com/ahriadominguez/ahriadominguez.github.io/tree/main/MLB%20Attendance)__
+- __[Improving Major League Baseball Attendance](https://github.com/ahriadominguez/ahriadominguez.github.io/tree/main/Improving%20MLB%20Attendance)__
   - A project that takes data from the MLB Dodgers team to give recommendations on how to increase fan attendance to the games. Two recommendations were found with one being a major indicator of higher attendance rates.
     - __Tools__: _pandas, matplotlib.plyplot, corr, scikit-learn, numpy_
     - __Skills__: _data visualization, correlation analysis, descriptive statistics, linear regression, data-driven recommendations_
@@ -72,7 +72,7 @@ Listed below are some projects completed during my time in the data science grad
   - A project that takes user input of a designated city/state or zip code, finds and parses through the current weather information, and prints it out in a visually pleasant way to the user. The script will continue to loop through their requests until they indicate that they no longer wish to use the weather generator. The script also handles any invalid or unexpected user inputs by instructing them to try again or letting them know that an error has occurred.
     - __Tools__: _requests, API keys_
     - __Skills__: _user input scripts, error handling, pretty printing, JSON parsing_
-- __[IMDb Movie Lookup System](https://github.com/ahriadominguez/ahriadominguez.github.io/tree/main/IMDB%20Movie%20Lookup)__
+- __[OMDb Movie Lookup System](https://github.com/ahriadominguez/ahriadominguez.github.io/tree/main/OMDb%20Movie%20Lookup)__
   - A project that takes user input to look up information on any movie using an API key and parsing through the information retrieved from IMDb. The information retrieved includes but is not limited to the title, year, rating (e.g., PG, PG-13, etc.), release date, runtime, genre, director, writer, main actors, plot, available languages, awards, and audience/critic ratings.
     - __Tools__: _urllib, json, os_
     - __Skills__: _API keys, JSON parsing, saving files using commands, error handling_
