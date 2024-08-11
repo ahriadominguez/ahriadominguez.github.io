@@ -8,7 +8,7 @@ In my free time, I love to crochet, play with my dogs, and travel with my husban
 
 Below, you can find my professional and academic accomplishments, work history, data science projects, and contact information.
 
-[LinkedIn](https://www.linkedin.com/in/ahria-dominguez-922a16211/) [ResearchGate](https://www.researchgate.net/profile/Ahria-Dominguez) [GitHub Respository](https://github.com/ahriadominguez/ahriadominguez.github.io) [Curriculum Vitae](https://github.com/ahriadominguez/ahriadominguez.github.io/blob/main/Dominguez_CV.pdf)
+[LinkedIn](https://www.linkedin.com/in/ahria-dominguez-922a16211/)   [ResearchGate](https://www.researchgate.net/profile/Ahria-Dominguez)   [GitHub Respository](https://github.com/ahriadominguez/ahriadominguez.github.io)   [Curriculum Vitae](https://github.com/ahriadominguez/ahriadominguez.github.io/blob/main/Dominguez_CV.pdf)
 
 ### Professional Milestones:
 - Invited to submit a long abstract to the Society for Affective Science (SAS)
